@@ -1,0 +1,42 @@
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\MainWindow.g.cs
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\App.g.cs
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+c:\users\samue\source\repos\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\samue\source\repos\Paint\Paint\bin\Debug\Paint.exe
+c:\users\samue\source\repos\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\MainWindow.baml
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint.g.resources
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint.exe
+c:\users\samue\source\repos\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\samue\source\repos\Paint\Paint\obj\Debug\AboutBox.g.cs
+C:\Users\samue\source\repos\Paint\Paint\obj\Debug\AboutBox.baml
+C:\Users\samue\source\repos\Paint\Paint\bin\Debug\Paint.exe.manifest
+C:\Users\samue\source\repos\Paint\Paint\bin\Debug\Paint.application
+C:\Users\samue\source\repos\Paint\Paint\obj\Debug\Paint.exe.manifest
+C:\Users\samue\source\repos\Paint\Paint\obj\Debug\Paint.application
+D:\Spring 2018\GUI\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Spring 2018\GUI\Paint\Paint\bin\Debug\Paint.exe.manifest
+D:\Spring 2018\GUI\Paint\Paint\bin\Debug\Paint.application
+D:\Spring 2018\GUI\Paint\Paint\bin\Debug\Paint.exe
+D:\Spring 2018\GUI\Paint\Paint\bin\Debug\Paint.pdb
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\AboutBox.g.cs
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\MainWindow.g.cs
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\App.g.cs
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint_MarkupCompile.lref
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\AboutBox.baml
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\MainWindow.baml
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.g.resources
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.exe.manifest
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.application
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.exe
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.pdb
+D:\Spring 2018\GUI\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache

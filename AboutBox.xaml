@@ -1,0 +1,16 @@
+﻿<Window x:Class="Paint.AboutBox"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Paint"
+        mc:Ignorable="d"
+        Title="About Me" FontFamily="Calibri" Height="300" Width="300">
+    <Grid Background="DeepPink">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock FontFamily="Calibri" FontSize="18" Foreground="White" HorizontalAlignment="Center" Margin="0,0,0,30">My Email</TextBlock>
+            <TextBlock Padding="5,5,5,5" HorizontalAlignment="Center" FontFamily="Calibri" FontSize="18" Background="White" Margin="0,10,0,10" MouseEnter="TextBlock_MouseEnter" PreviewMouseDown="TextBlock_PreviewMouseDown" MouseLeave="TextBlock_MouseLeave">samuel.bishop@oit.edu</TextBlock>
+            <TextBlock FontFamily="Calibri" FontSize="18" Foreground="White" HorizontalAlignment="Center" Margin="0,30,0,0">Click email to copy!</TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
